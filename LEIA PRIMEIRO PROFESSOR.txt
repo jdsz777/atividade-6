@@ -1,0 +1,4 @@
+Professor aqui eu nao botei aquele negocio da responsividade por 2 motivos:
+1- Não tive tempo pra fazer, fiquei bem ocupado no serviço nessa semana;
+2- Não sei mexer nisso direito e parece que esta se ajustando bem, mesmo sem nada.
+OBS: A paradinha com o bootstrap nem tive tempo de ver porque né, sem tempo.
