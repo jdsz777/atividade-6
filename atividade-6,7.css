@@ -68,4 +68,24 @@ h5{
     color: yellow;
 }
 
+@media (min-width: 768px) {
+    body{
+        background-color: aqua
+    }
+}
+
+@media (min-width: 992px) {
+    body{
+        background-color: rgb(255, 0, 0)
+    }
+}
+
+@media (min-width: 1200px) {
+    body{
+        background-color: yellowgreen
+    }
+}
+
+
+
 
